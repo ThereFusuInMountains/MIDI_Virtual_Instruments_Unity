@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio_ErHu
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio_ErHu
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 25293da6454ca4a4dbeb7670defcd81e
+  m_SerializeEntries:
+  - m_GUID: ed807a6ee49469243b35097ea78f1279
+    m_Address: Mini_ErHu_A#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 0e21a4fdbf737f245ba452a0c3a3e689
+    m_Address: Mini_ErHu_A#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 8c3fb47eea6d3744c9cbb577f601c27c
+    m_Address: Mini_ErHu_A3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 6acf8fbd0c06606449c069f1d5a9f502
+    m_Address: Mini_ErHu_A4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: c27f6183a9efa834088435168f666cb6
+    m_Address: Mini_ErHu_B3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: d31e8f3284cfe3349a3a5f7f1acdbe77
+    m_Address: Mini_ErHu_B4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: a9b4e6895d6ea0f41b64bc6e304b7765
+    m_Address: Mini_ErHu_C#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: a3453d9b99f77d842a2ba54bcc847522
+    m_Address: Mini_ErHu_C#5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 9bb44dc08feee4b4da63397a2372706b
+    m_Address: Mini_ErHu_C4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: b90d1c50f89e2be47b0a97c6072c672f
+    m_Address: Mini_ErHu_C5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 9f68e5752b4a09840a1286afc758089f
+    m_Address: Mini_ErHu_D#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: b6231d2f03bb1624bb3300f860226776
+    m_Address: Mini_ErHu_D#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: e5b10e6ee119f4b488097cef4a17d079
+    m_Address: Mini_ErHu_D#5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: def5222f1f548134197afcea1876f727
+    m_Address: Mini_ErHu_D3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 33df93e7df70650488d3b50e149642bb
+    m_Address: Mini_ErHu_D4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 4c14a6a35447eb040bc13d332a647159
+    m_Address: Mini_ErHu_D5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 35f9f6021c1188a40a8d3d9954f992ca
+    m_Address: Mini_ErHu_E3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 694512f038532b24484007f9617d4443
+    m_Address: Mini_ErHu_E4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 1ef8e6066b9081c41bd85372b754a167
+    m_Address: Mini_ErHu_E5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: c159d1a5fbddfbe4c9ec522a856e8028
+    m_Address: Mini_ErHu_F#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 2537dcd18cbed7346afa26ccdca86d16
+    m_Address: Mini_ErHu_F#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 5f1d4490c928a5f49962f0a2fcfaede3
+    m_Address: Mini_ErHu_F3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 9e2fec86d41c65847846a885862303c1
+    m_Address: Mini_ErHu_F4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 746142add82f0264bb1b0c146c52f212
+    m_Address: Mini_ErHu_G#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 4e88034ecc4b27d4f8ff3305d37146db
+    m_Address: Mini_ErHu_G#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: 08eaa93b7b18fd842b1f98e0e19d1c1b
+    m_Address: Mini_ErHu_G3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  - m_GUID: dc94a4c40895f844bb98bc909815269a
+    m_Address: Mini_ErHu_G4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Chinese
+    - Mini_ErHu
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e06983658ac656346aa269bbf35692c4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a2fb82d7536e48641bf000169b92023e, type: 2}
+    - {fileID: 11400000, guid: 7ac85173b7d81f64fa62e8331461f1ba, type: 2}

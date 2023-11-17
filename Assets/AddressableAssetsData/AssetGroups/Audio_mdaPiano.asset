@@ -1,0 +1,781 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio_mdaPiano
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio_mdaPiano
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4eea84defbecde648878af2cbbae79f4
+  m_SerializeEntries:
+  - m_GUID: b5943096ccde7984c9c80d45cd6f38ca
+    m_Address: mdaPiano_A#-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 25f7a6925fc19df42b685daed635a59e
+    m_Address: mdaPiano_A#0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: eebe6f7bbb5d67e4584ede4c9adf9100
+    m_Address: mdaPiano_A#1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 3f36100d669edbc45b73f46d7974fc08
+    m_Address: mdaPiano_A#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 2e1159e4548ad59408edc7f3e5af59e6
+    m_Address: mdaPiano_A#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: b2fbd8e9661cbca4294a8acb0540fc2d
+    m_Address: mdaPiano_A#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 6df4621258bb8ff4c9fb45e0b8611603
+    m_Address: mdaPiano_A#5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 51c78e1a196f3bf46829a91a46a3d950
+    m_Address: mdaPiano_A#6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 1972764df989a7842adcc3b218fd883d
+    m_Address: mdaPiano_A#7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: f39383e4e6eb600448a21e3e1b744abe
+    m_Address: mdaPiano_A-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: a33835f6639a98a419431bd00743a599
+    m_Address: mdaPiano_A0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: a7d44e972d1c1174eb2ef1aa33d7d341
+    m_Address: mdaPiano_A1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 7ae35cca401b2464d80096223630bce2
+    m_Address: mdaPiano_A2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 17149c1ac3b1bd54ea1bb0cad8c9f191
+    m_Address: mdaPiano_A3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 0900310a4cbfec348ab77b2b7dad1b63
+    m_Address: mdaPiano_A4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 2411688f3d5d4754ebc7da42b6bc7870
+    m_Address: mdaPiano_A5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 6cbcb4245256f314fb065507b128726f
+    m_Address: mdaPiano_A6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 73779523d6367a948aa64ad6666845c9
+    m_Address: mdaPiano_A7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: c9d0671901f014945a3bd83999fdc410
+    m_Address: mdaPiano_B-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 2ec8f9cf6f7052846925167fb98d72f7
+    m_Address: mdaPiano_B0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: cc4a593059f235e4b89562d694e5b2bf
+    m_Address: mdaPiano_B1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 268ec650a753e9449a40da8ce0b37ee9
+    m_Address: mdaPiano_B2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 2e86232c67957434abac8133ace4c460
+    m_Address: mdaPiano_B3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 8024ebff9b5972145b9be7cfcea01f37
+    m_Address: mdaPiano_B4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: f2a74d229fff7944591cf397d8068203
+    m_Address: mdaPiano_B5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 6116f68865302134283b776f40f79ac9
+    m_Address: mdaPiano_B6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: d4dcff5e8b827bf459013d0357c29c71
+    m_Address: mdaPiano_B7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 01a5feb7ae92d4b4facddce7e373ac65
+    m_Address: mdaPiano_C#-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: bd8fa675f90c4c641a784729ca70918f
+    m_Address: mdaPiano_C#0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 7eccaa8c58e98294c95ba4c9e39aaf58
+    m_Address: mdaPiano_C#1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 3f4f65f66d81d7f498c4d78cfec91aaa
+    m_Address: mdaPiano_C#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: a6091979933189b42b0747555cac7709
+    m_Address: mdaPiano_C#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: d07f191e179027d4eb682b0452189f7a
+    m_Address: mdaPiano_C#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: f8e8dd6f9d833ab4f89bbe7bf7586edc
+    m_Address: mdaPiano_C#5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 05393fb4c00be6d49953f3b0b0b91bd7
+    m_Address: mdaPiano_C#6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: ac17f06cfec82d945a41861cfcbce052
+    m_Address: mdaPiano_C#7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: c076e67164cf6ab429632cd309a28977
+    m_Address: mdaPiano_C-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 3ebb28025477cd046890092e7d099d7c
+    m_Address: mdaPiano_C0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: c88d060d1a72c11499372ab6888ea09c
+    m_Address: mdaPiano_C1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: fb501f2d2bc60794296ea1907b23dc4c
+    m_Address: mdaPiano_C2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 71ba2ae94a5d9474e8e50b4ffc34a893
+    m_Address: mdaPiano_C3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 1b9119e1200f8124089bb34969b1bbc3
+    m_Address: mdaPiano_C4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 50b12603ad75c58488a8c2a9a28cab1e
+    m_Address: mdaPiano_C5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 64b2ad30a8d145249b13b644cd5825ac
+    m_Address: mdaPiano_C6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 06676cc994240ae408f1d6cabcb0e0bb
+    m_Address: mdaPiano_C7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: c9504b35127a8e64b87f406e9c93e02c
+    m_Address: mdaPiano_D#-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 10e89227d43d1674a84eae1ceeb85593
+    m_Address: mdaPiano_D#0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 7caf4bd80d70c5145a88c68a25102af1
+    m_Address: mdaPiano_D#1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 74c703704e87e174d86a59d53248cf9e
+    m_Address: mdaPiano_D#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 5729b2f7c4ebbad43a9f4e948488567a
+    m_Address: mdaPiano_D#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: a3cc3ec98dc772445a5a0145bd60fc6d
+    m_Address: mdaPiano_D#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: f669c71dd49b19849afbb6d3ea17630a
+    m_Address: mdaPiano_D#5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 6f72ab0741b3d2c4cb1f510c826efa14
+    m_Address: mdaPiano_D#6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: c3ffde4e96a41fe46b648653ee158ef9
+    m_Address: mdaPiano_D#7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 49edfddbdb1e60f4fad7b002e1d75f9d
+    m_Address: mdaPiano_D-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 6e52c93bb3c77f2499877cf94167a464
+    m_Address: mdaPiano_D0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 88b605a64b86dfe4e986359065e1af48
+    m_Address: mdaPiano_D1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 7d0a2cd672901a54a907e5ffb76c9f4e
+    m_Address: mdaPiano_D2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 35d8ec0d3a3a69b41b6066bab562bf22
+    m_Address: mdaPiano_D3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: ac4793530fb1fa549b23e6fe965f9e6b
+    m_Address: mdaPiano_D4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 32b0493356a1fc641bb74e967bccbfd8
+    m_Address: mdaPiano_D5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: c4d49aa7b34e912418ee3f85d9e1f12d
+    m_Address: mdaPiano_D6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 9e290282dbf7baf45920c53beb2f204b
+    m_Address: mdaPiano_D7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 426b19759ff3bb14682d111e695e893d
+    m_Address: mdaPiano_E-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 05cb21be3bc68664594c63162a052f7c
+    m_Address: mdaPiano_E0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 59a56c7325b4a4843bdb0cc27014f927
+    m_Address: mdaPiano_E1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: d8feb64fd632f3347b56b91b7f361605
+    m_Address: mdaPiano_E2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: fda7836fbe0fcc648b6ad26a1613ed6c
+    m_Address: mdaPiano_E3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: dafddfd2102e90c48be7686211703fc7
+    m_Address: mdaPiano_E4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: eb18fb0171e3a2242a5a6a0f1f1a8ca1
+    m_Address: mdaPiano_E5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 1236ed5a78e6f3d479dc38892dbebc3b
+    m_Address: mdaPiano_E6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 7b0e82ee8bb05a14ba057dbd04f1c258
+    m_Address: mdaPiano_E7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 7ad2d8adcfb6fb14ea798d7bfb460c63
+    m_Address: mdaPiano_F#-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: b826b55c276a20741b00efa89f86e53f
+    m_Address: mdaPiano_F#0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 76cb20cd82ae6394da0cb30e66ec6453
+    m_Address: mdaPiano_F#1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 480bcdb92de9b66488d507cb1e6514ae
+    m_Address: mdaPiano_F#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: dedf7cde19c04ae4ca20a6bd268641fa
+    m_Address: mdaPiano_F#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 746b0b5bfc9d11d47a29535f71abda6e
+    m_Address: mdaPiano_F#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 74163312718d2fa4da94d5cd3b76783c
+    m_Address: mdaPiano_F#5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: a94dccab12b0f5f4594794ab9bc54f7c
+    m_Address: mdaPiano_F#6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 432a941a2514c444098a6cb3f29267ff
+    m_Address: mdaPiano_F#7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: e54dd257bd890c548a32324dc2a64770
+    m_Address: mdaPiano_F-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: b0d6651b4acf40340ba1193e89538502
+    m_Address: mdaPiano_F0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: a58f4936b4af3eb4e965789fbe28d170
+    m_Address: mdaPiano_F1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 30d270cf4817f374e802532deedcd383
+    m_Address: mdaPiano_F2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 9490891b2953bad449d9c36469abf6da
+    m_Address: mdaPiano_F3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 9ee21406aa518c64984d6f6343da0a22
+    m_Address: mdaPiano_F4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 7fd3b9c4ef3629643985a38cccffde85
+    m_Address: mdaPiano_F5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 55befb9ff051dce4aaa0226b633bb709
+    m_Address: mdaPiano_F6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: a295b6aad0af03242ab7c01542a8f75c
+    m_Address: mdaPiano_F7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 4c123e2396e5f80408fdb582fe33c6bf
+    m_Address: mdaPiano_G#-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: f3f4cd4f33c00314ab5df77449ac90bf
+    m_Address: mdaPiano_G#0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: ad7b2691daadc5f4c835aeb5ac9cc172
+    m_Address: mdaPiano_G#1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 62680623f83df0847b055c9055d1d387
+    m_Address: mdaPiano_G#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 441dd1797ce8af5488272ba2a4c16e30
+    m_Address: mdaPiano_G#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 4689d997c19356744b7b49f8607a5dc2
+    m_Address: mdaPiano_G#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 5719602d7995ee2408086081b33dd79c
+    m_Address: mdaPiano_G#5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: c6a17f81780239142853ffad75543f65
+    m_Address: mdaPiano_G#6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 613a411d79d8d0e46bcf821cc11011b1
+    m_Address: mdaPiano_G#7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: e8e7f778955c0ee429254c91ca182798
+    m_Address: mdaPiano_G-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 6fe40247c116d264fadf7bfc9cb2a4cc
+    m_Address: mdaPiano_G0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 4bc6df93ee8ee9d4f8349587dcbf1bdb
+    m_Address: mdaPiano_G1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: ce28226f144c2f249826bacc6fc44d44
+    m_Address: mdaPiano_G2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: c24380fb71b6ebd44856029ab923b28c
+    m_Address: mdaPiano_G3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 8334b18d146bec54682c8c20e4908973
+    m_Address: mdaPiano_G4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: a62de8fa2ee668247ad365ab566ba461
+    m_Address: mdaPiano_G5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 1a551d85853e171429eb98476ff8c6de
+    m_Address: mdaPiano_G6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  - m_GUID: 22597243634df0f47bcc5a0a811c5a1a
+    m_Address: mdaPiano_G7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - mdaPiano
+    - Base
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e06983658ac656346aa269bbf35692c4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8dc3dc204a5f4d348a2f0db9e0bb09c5, type: 2}
+    - {fileID: 11400000, guid: 6a206cf0c37965b4f938d6781cc4843b, type: 2}

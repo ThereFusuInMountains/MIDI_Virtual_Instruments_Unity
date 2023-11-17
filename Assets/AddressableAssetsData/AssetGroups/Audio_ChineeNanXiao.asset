@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio_ChineeNanXiao
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio_ChineeNanXiao
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 86eaaf3b52bf7e14da4fdd2da56b8321
+  m_SerializeEntries:
+  - m_GUID: 457b2dd62d323bc499bf498d420e14a2
+    m_Address: ChineeNanXiao_A#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 60cfccdbaa7cace46b883139b3884529
+    m_Address: ChineeNanXiao_A#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 05ab7df9edcf7694bbbae6e3a66db479
+    m_Address: ChineeNanXiao_A2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 2d036b2b510b40a49b8bde2a72255ab1
+    m_Address: ChineeNanXiao_A3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 3ee35ccb94185eb4f974abd10a0efda8
+    m_Address: ChineeNanXiao_B2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 7bb584b177305234da55c94ee986c525
+    m_Address: ChineeNanXiao_B3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 5ab376eb8328dc54b81bab00465ecc1a
+    m_Address: ChineeNanXiao_C#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: b90ecc06b82bcd64f8c006019f7ea671
+    m_Address: ChineeNanXiao_C#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: dd200dab14e971a4ba3850f8c65c8e22
+    m_Address: ChineeNanXiao_C#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: bf85487766218aa4ba0a1503da44b641
+    m_Address: ChineeNanXiao_C2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 03d1033dd419df543b1639e516058fda
+    m_Address: ChineeNanXiao_C3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: e1aa02d4b4b69b34c8bfaf7accab6652
+    m_Address: ChineeNanXiao_C4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: eb0baa03b8e0eb44babd9a41fa3f30a3
+    m_Address: ChineeNanXiao_D#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 27142b57c27b8574f804366e0734a653
+    m_Address: ChineeNanXiao_D#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 6da5d23c393d52f439bea381168e0d32
+    m_Address: ChineeNanXiao_D#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 65c9a00d6c40fdd468da2a4c8f37da01
+    m_Address: ChineeNanXiao_D2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: e45ef5c2904b42b4b99d65d6b84237f1
+    m_Address: ChineeNanXiao_D3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: a2a9cae5f1497f14dab796aea3538a5e
+    m_Address: ChineeNanXiao_D4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 4d4223ce249e6fd40916e9399461962d
+    m_Address: ChineeNanXiao_E2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 50957d1056ee56342b4396b978bdc9d3
+    m_Address: ChineeNanXiao_E3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 6e7d80591c559044dbcb596c9be92ca7
+    m_Address: ChineeNanXiao_E4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: c5be03fcab0230b4488aba5a5a426f05
+    m_Address: ChineeNanXiao_F#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: dbba748fab986bf4190e72def84ddf1e
+    m_Address: ChineeNanXiao_F#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: ae4684e7e717e6848b9d34606d582141
+    m_Address: ChineeNanXiao_F#4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: e45505514ac91ea4a8c6f529a9f5e72e
+    m_Address: ChineeNanXiao_F2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 5fe156414e75fbf45aa782d283a65d66
+    m_Address: ChineeNanXiao_F3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 42623868b8423e244b104796402cd84f
+    m_Address: ChineeNanXiao_F4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: 24de439e5e72e6a4da584df3c9b0d93e
+    m_Address: ChineeNanXiao_G#2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: a1086327011dc1e45a2c791b8bbb86ac
+    m_Address: ChineeNanXiao_G#3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: d862b97e9a9e492469ae7b45e5a08d5a
+    m_Address: ChineeNanXiao_G2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: f1cbe5691cf87ee4c95c8cf87d974fc3
+    m_Address: ChineeNanXiao_G3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  - m_GUID: b286d5605334a964b825d665d1ab682d
+    m_Address: ChineeNanXiao_G4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chinese
+    - Audio
+    - ChineeNanXiao
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e06983658ac656346aa269bbf35692c4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9ab74471d1932ff49a12f275a2b197fe, type: 2}
+    - {fileID: 11400000, guid: fe6f8609cc1a478489a8734f1c652b4d, type: 2}
