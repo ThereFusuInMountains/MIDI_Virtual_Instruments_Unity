@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ProjectConf:
     projectName: "\u865A\u62DF\u94A2\u7434"
-    Appid: wx6d1e8c9d7472a03d
-    CDN: https://a.unity.cn/client_api/v1/buckets/265482ae-0d88-4dd2-bbdb-3eec29294049/release_by_badge/latest/entry_by_path/content/?path=
+    Appid: wx188942d0829b8f23
+    CDN: https://a.unity.cn/client_api/v1/buckets/e0317ea4-afa8-42e0-aef1-c21c551e5be2/release_by_badge/latest/entry_by_path/content/?path=
     assetLoadType: 1
     VideoUrl: 
     DST: D:/UnityProject/Web
@@ -51,7 +51,7 @@ MonoBehaviour:
     Webgl2: 0
     fbslim: 0
     DeleteStreamingAssets: 0
-    ProfilingMemory: 0
+    ProfilingMemory: 1
     CleanBuild: 0
     CustomNodePath: 
     showMonitorSuggestModal: 1
