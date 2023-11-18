@@ -168,7 +168,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 06aaf8b48b1ff8f408948d2b5c82f65f, type: 2}
   - {fileID: 11400000, guid: cb458a48631885a47a135251f2d9b067, type: 2}
   - {fileID: 11400000, guid: 4191a044396341a4f8ba7042762cd741, type: 2}
-  m_ActiveProfileId: db3d6552bb7669b4b9f3b457ea788379
+  m_ActiveProfileId: 8899262ec277755469f5fb82b517a3e7
   m_HostingServicesManager:
     m_HostingServiceInfos:
     - classRef: UnityEditor.AddressableAssets.HostingServices.HttpHostingService,
